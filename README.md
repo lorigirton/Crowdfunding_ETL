@@ -3,7 +3,7 @@
 
 ## Authors
 Lori Girton (@Lori Girton)
-()
+Spencer Boman (@JimmJanker)
 
 ## Description
 A brief overview of your project
